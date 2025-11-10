@@ -1,1 +1,12 @@
 # lindseylee1217-comm4190_F25_Final_Project
+
+This is the final project with Hanxi Guo & Lindsey Lee. We present to you, Looking Glass, an LLM that guides user reflection based on user-given journal entries. Looking Glass identifies tones, emotions and recurring topics in each individual journal entry and tracks how entries shift over time.
+
+In this repository, you can find the following items:
+1. Milestone #1: Initial project pitches
+    - lindsey_lee_pitch.ipynb
+    - hanxi_guo_pitch.ipynb
+2. Milestone #2 Files
+    - Milestone #2.ipynb - contains information of part 1 of milestone 2, including general information on our final proprosed project pitch
+    - LL Milestone #2- Usage Scenarios.ipynb
+    - HG Milestone #2- Usage Scenarios.ipynb
