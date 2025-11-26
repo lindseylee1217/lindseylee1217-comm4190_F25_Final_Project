@@ -1,0 +1,11 @@
+WEEK_METADATA:
+week_id: 2025-CW14
+has_active_goal: false
+
+WEEK_TEXT:
+Random notes I typed:
+- I still think Pepsi is sweeter than Coke.
+- Need to check when the spring Starbucks menu drops.
+- Reminder: pick up laundry.
+
+(Accidentally pasted from my phone)

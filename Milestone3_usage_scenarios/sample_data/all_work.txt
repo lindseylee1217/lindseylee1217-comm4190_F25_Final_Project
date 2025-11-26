@@ -1,0 +1,49 @@
+WEEK_METADATA:
+week_id: 2025-W11
+has_active_goal: false
+current_goal_description: ""
+
+WEEK_TEXT:
+[Mon – email draft]
+Subject: Status update – Q2 migration
+
+Hi team,
+Please find below the current status of the Q2 migration:
+- 3/5 services now deployed to staging
+- Remaining 2 services blocked on dependency approvals
+- No major incidents in the last 7 days
+
+Best,
+A.
+
+[Tue – ticket updates]
+JIRA-421: Changed status from "In Progress" to "In Review".
+JIRA-422: Updated description to reflect new acceptance criteria.
+JIRA-423: Logged as "Blocked" due to missing API keys.
+
+[Wed – meeting agenda]
+- Review open incidents
+- Confirm owners for runbook updates
+- Decide on rollout date for phase 2
+
+[Thu – email to infra]
+Subject: Request for temporary access
+
+Hello,
+I am requesting temporary access to the logs for service X for debugging purposes.
+Expected duration: 5 business days.
+
+Thank you,
+A.
+
+[Fri – meeting minutes]
+- Agreed to postpone rollout to next Wednesday.
+- Confirmed that all monitoring dashboards are up to date.
+- No additional follow-up items for me this week.
+
+[Fri – tiny note]
+Long week, but everything is mostly under control.
+
+OPTIONAL_PAST_SUMMARY:
+In previous weeks, the user often mentioned long hours and difficulty disconnecting from work, but also occasional small experiments with boundaries (for example taking short walks or setting a "no meetings" block).
+

@@ -1,0 +1,20 @@
+WEEK_METADATA:
+week_id: 2025-CW10
+has_active_goal: true
+current_goal_description: explore "light and shadow" motif
+
+WEEK_TEXT:
+Fragment 1 — Imagery card:
+"Streetlamp flickering in a cold alley, rainwater pooling in uneven stone."
+
+Fragment 2 — Vignette:
+The girl hesitated before knocking on the apartment door. A slice of warm light slipped under the frame, trembling.
+
+Fragment 3 — Sketch:
+Character A: “I don’t know why darkness feels heavier today.”
+Character B: “Maybe it’s not darkness. Maybe it’s just the absence of a place to land.”
+
+Fragment 4 — Scene experiment:
+Tried writing a confrontation scene but it kept turning into silence instead of conflict.
+
+Imagery tags: light/dark contrast, hesitation, threshold spaces

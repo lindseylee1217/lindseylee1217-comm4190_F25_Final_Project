@@ -1,0 +1,7 @@
+WEEK_METADATA:
+week_id: 2025-W15
+has_active_goal: false
+current_goal_description: ""
+
+WEEK_TEXT:
+Busy week. Mostly meetings and emails. Nothing special to say, just tired.

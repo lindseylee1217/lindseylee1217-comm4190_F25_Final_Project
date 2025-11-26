@@ -1,0 +1,15 @@
+WEEK_METADATA:
+week_id: 2025-CW15
+has_active_goal: false
+
+WEEK_TEXT:
+Scene stub:
+“Two people sitting at a bus stop. Neither speaks.”
+
+Imagery card:
+“Gray sky.”
+
+Misc notes:
+“Tired. Didn’t write much this week.”
+
+Imagery tags: muted tone

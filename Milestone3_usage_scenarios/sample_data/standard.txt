@@ -1,0 +1,39 @@
+WEEK_METADATA:
+week_id: 2025-W10
+has_active_goal: true
+current_goal_description: "speak up at least once in each team meeting"
+
+WEEK_TEXT:
+[Mon – meeting notes]
+- Weekly sync with product team.
+- PM walked through the new onboarding flow.
+- I mostly listened. Had a question about the timeline but did not speak up.
+- Action item: send updated draft of spec by Thursday.
+
+[Mon – Slack DM with coworker]
+"Today’s sync ran long again lol. I had something to say but the moment passed. Maybe next time."
+
+[Tue – personal note]
+Felt pretty scattered today. Jumped between tickets and did not get a full block of focus time. I am also a bit worried about the Friday demo, but no one else seems stressed, so maybe I am overthinking it.
+
+[Wed – meeting notes]
+- 1:1 with manager.
+- Talked about my progress on the spec and how I am ramping up.
+- Manager said the work looks good and encouraged me to share more in group settings.
+
+[Wed – reflection]
+It was reassuring to hear that I am on track. Still, I freeze a bit when the whole team is in the room. I keep rehearsing what I want to say instead of just saying it.
+
+[Thu – Slack channel #team]
+"Sharing an early version of the spec here. Feedback welcome!"
+
+[Thu – personal note]
+Posting the spec link felt like a small step. Tiny spike of anxiety when I hit send, but people were kind and gave constructive comments.
+
+[Fri – demo notes]
+- Internal demo of new onboarding flow.
+- PM and designer did most of the talking.
+- I answered one question about an edge case, voice was slightly shaky but I survived.
+
+[Fri – end-of-week reflection]
+Overall, I think I took one or two small steps toward speaking up more, but I still feel like I am hiding a bit. Energy level is medium-low. Not completely burnt out, but definitely ready for the weekend.

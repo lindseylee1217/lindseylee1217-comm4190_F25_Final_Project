@@ -1,0 +1,18 @@
+WEEK_METADATA:
+week_id: 2025-CW11
+has_active_goal: false
+
+WEEK_TEXT:
+Worldbuilding note:
+- Region 3 climate revision: temperate → humid subtropical
+- Update pantheon hierarchy (swap Dawnbearer & Stonecaller)
+
+Plot checklist:
+- Chapter 5 restructure: remove duplicate scene
+- Fix timeline inconsistency for the caravan route
+
+Script notes:
+- Dialogue placeholders added
+- Need consistent naming for magical artifacts
+
+Imagery tags: none

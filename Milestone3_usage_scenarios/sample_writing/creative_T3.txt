@@ -1,0 +1,17 @@
+WEEK_METADATA:
+week_id: 2025-CW13
+has_active_goal: true
+current_goal_description: deepen emotional interiority
+
+WEEK_TEXT:
+Fragment — Character monologue draft:
+“I keep writing him standing at the edge of the roof, not because he wants to jump,
+but because the height feels like the only place where his thoughts quiet down.”
+
+Vignette:
+A narrow room with all the curtains drawn. He whispered, “Sometimes disappearing feels simpler, even if I don’t actually want to go anywhere.”
+
+Scene attempt:
+The protagonist watches traffic from a pedestrian bridge. She thinks the world would move on without noticing if she faded.
+
+Imagery tags: height, disappearance, enclosed spaces

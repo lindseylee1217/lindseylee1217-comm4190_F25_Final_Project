@@ -1,0 +1,24 @@
+WEEK_METADATA:
+week_id: 2025-CW16
+has_active_goal: true
+current_goal_description: experiment with intense emotional dialogue
+
+WEEK_TEXT:
+Vignette — Draft confrontation scene:
+“I begged you!” Mara screamed, fists shaking. “I begged you not to leave me there!”
+Jonas didn’t move. His silence was its own cruelty—precise, practiced.
+“I waited in that freezing corridor for hours,” she said, voice cracking. “Do you know what it feels like to have hope ripped out one thread at a time?”
+
+Character note:
+Mara’s emotion here is fear turning into rage. She *believes* Jonas abandoned her, but in the backstory he was unconscious, not uncaring.
+
+Side writing:
+I don’t actually feel this angry—just testing how far I can push her emotional range. I want the scene to feel breathless without being melodramatic.
+
+Imagery card:
+“A doorframe lit from behind, two shadows stretching away like severed strings.”
+
+Writing diary:
+Mostly trying to understand what Mara is terrified *of*, and how her fear might mask a deeper grief. None of this is personal; just exploring extremes.
+
+Imagery tags: rupture, abandoned spaces, raised voices
