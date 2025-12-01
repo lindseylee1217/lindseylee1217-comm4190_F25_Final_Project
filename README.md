@@ -28,7 +28,6 @@ Initial project proposals and ideas
 ### Milestone #2: Project Planning & Usage Scenarios
 Final project direction and usage scenario design
 
-- [Overall Project Plan](./02_Milestone_#2.ipynb) - Contains general information on the final proposed project pitch
 - [Lindsey Lee's Usage Scenarios](./02_LL_Milestone_#2-Usage_Scenarios.ipynb)
 - [Hanxi Guo's Usage Scenarios](./02_HG_Milestone_#2_Usage_Scenarios.ipynb)
 
