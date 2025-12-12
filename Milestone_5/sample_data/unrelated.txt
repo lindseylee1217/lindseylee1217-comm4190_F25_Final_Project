@@ -1,0 +1,7 @@
+WEEK_METADATA:
+week_id: 2025-W14
+has_active_goal: false
+current_goal_description: ""
+
+WEEK_TEXT:
+Which brand is better, Coke or Pepsi? Please give me a ranking of your favorite sodas and also tell me what is on the Starbucks menu this season. I am not interested in reflection, I just want drink recommendations and menu hacks.

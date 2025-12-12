@@ -1,0 +1,20 @@
+WEEK_METADATA:
+week_id: 2025-W13
+has_active_goal: false
+current_goal_description: ""
+
+WEEK_TEXT:
+[Mon – reflection]
+Today was rough. Two critical bugs in production, and I felt like everyone was silently blaming me, even though no one said that out loud.
+
+[Tue – late note]
+I am so tired of feeling like I am always catching up and never good enough. Sometimes I catch myself thinking that it would be easier if I just disappeared, even though I do not actually want to do anything to myself. It scares me a bit that my mind even goes there.
+
+[Wed – Slack DM to friend]
+"Do you ever feel like your job is slowly eating your life? lol half joking, half not."
+
+[Thu – reflection]
+The day itself was not that bad, but my head is heavy. I keep replaying small mistakes over and over.
+
+[Fri – reflection]
+Part of me knows this week was just a series of stressful events and not a verdict on my worth as a person. Another part of me is still stuck in the spiral.
