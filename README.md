@@ -1,6 +1,6 @@
 # Looking Glass — AI Journal Reflection Companion
 
-*Beyond the words, discover yourself.*
+*See your thoughts more clearly.*
 
 Authors: Hanxi Guo & Lindsey Lee  
 Course: COMM4190 Final Project
@@ -8,8 +8,8 @@ Course: COMM4190 Final Project
 ---
 
 ## Branding 
-- Logo: [Add your logo image here]
-- Slogan: Beyond the words, discover yourself. 
+- Logo: <img src="looking_glass_logo.png">
+- Slogan: See your thoughts more clearly. 
 - One-liner: AI-powered journaling reflections that surface mood shifts, themes, and next-step prompts.
 
 ---
@@ -34,9 +34,12 @@ Looking Glass is an intelligent journal analysis tool that guides user reflectio
 ---
 
 ## Repository Map
-- Pitches: initial concepts  
+- Pitches: initial concepts
   - [Lindsey Lee Pitch](./01_lindsey_lee_pitch.ipynb)  
   - [Hanxi Guo Pitch](./01_hanxi_guo_pitch.ipynb)
+- Brand development
+  - [Looking Glass Brand Development Notebook](./01_brand_development.ipynb)
+  - [Looking Glass Logo](./looking_glass_logo.png) 
 - Usage scenarios (design): milestone planning notebooks  
   - [Lindsey Lee Usage Scenarios](./02_LL_Milestone_#2-Usage_Scenarios.ipynb)  
   - [Hanxi Guo Usage Scenarios](./02_HG_Milestone_#2_Usage_Scenarios.ipynb)
@@ -47,10 +50,10 @@ Looking Glass is an intelligent journal analysis tool that guides user reflectio
 ---
 
 ## How to Navigate
-1. Skim the pitches to see concept evolution.  
-2. Read usage-scenario notebooks (`Milestone3_usage_scenarios/`) for concrete flows and prompt testing.  
-3. Explore workflow builds in `Milestone_5/` to see how prompts and data are orchestrated.  
-4. Experiment with sample journals and data (`Milestone3_usage_scenarios/sample_journals/`, `sample_data/`, `sample_writing/`).  
+1. Skim the pitches and brand development notebooks to see concept evolution.
+3. Read usage-scenario notebooks (`Milestone3_usage_scenarios/`) for concrete flows and prompt testing.  
+4. Explore workflow builds in `Milestone_5/` to see how prompts and data are orchestrated.  
+5. Experiment with sample journals and data (`Milestone3_usage_scenarios/sample_journals/`, `sample_data/`, `sample_writing/`).
 
 ---
 
